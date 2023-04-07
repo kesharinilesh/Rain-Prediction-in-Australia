@@ -1,4 +1,4 @@
-In this project, I have used a rainfall dataset from Australian Government's Bureau of Meteorology , cleaned the data, and applied different classification algorithm on the data. 
+This is a guided coursera project, here I have used a rainfall dataset from Australian Government's Bureau of Meteorology , cleaned the data, and applied different classification algorithm on the data. 
 
 I have used following algorithms to build this model:
 
